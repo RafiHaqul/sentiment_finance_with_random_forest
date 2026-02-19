@@ -1,0 +1,9 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+imbalanced-learn
+wordcloud
