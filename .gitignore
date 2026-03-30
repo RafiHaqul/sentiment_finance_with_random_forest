@@ -1,0 +1,10 @@
+datasets/*
+dataset_1/
+.venv/
+.vscode/
+.git/
+hasil_visualisasi/
+
+fine_tune_rs.py
+random_forest copy.ipynb
+visualisasi_utils.py

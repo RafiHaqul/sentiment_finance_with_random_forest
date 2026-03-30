@@ -1,5 +1,8 @@
 # PROJEK ANALISIS SENTIMEN KOMENTAR FINANSIAL
 
+> NOTE<br>
+> Projek ini berjalan pada operating system linux. Disarankan untuk mengantinya ke linux operating system atau mengunakan WSL jika anda berada di windows operating system
+
 ## Quick start (Linux/WSL)
 - Clone repository ini
 - Download dataset dari link : https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis\
